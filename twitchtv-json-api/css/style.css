@@ -1,0 +1,28 @@
+.block {
+  background-color: black;
+  opacity: .9;
+  color: #7B68EE;
+  padding: 20px;
+  width: 50%;
+margin-right: auto;
+  margin-left:auto;
+  border-radius: 20px;
+  font-size: 1.5em;
+  padding-bottom: 2%;
+}
+
+.spacer{
+  padding: 3%;
+}
+
+body{
+  background: url('http://s3.amazonaws.com/digitaltrends-uploads-prod/2014/08/amazon-twitch-purchase.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+a{
+  color: #7B68EE;
+}
